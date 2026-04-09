@@ -1,4 +1,4 @@
-## DSC-445 Machine Learning 1
+## DSC-478 Programming Machine Learning Applications
 
 | Week | Module | Topics |
 | --- | --- | --- |
